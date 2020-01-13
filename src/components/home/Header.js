@@ -1,6 +1,6 @@
 import React from "react";
 import Hero from "../globals/Hero";
-import homeImg from "../../images/homeBcg.jpeg";
+import homeImg from "../../images/homeBcg.jpg";
 import Banner from "../globals/Banner";
 import { PrimaryBtn } from "../globals/Button";
 
