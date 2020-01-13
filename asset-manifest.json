@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.js": "/styled/static/js/main.47b377ac.chunk.js",
+    "main.js.map": "/styled/static/js/main.47b377ac.chunk.js.map",
+    "runtime-main.js": "/styled/static/js/runtime-main.f16f924f.js",
+    "runtime-main.js.map": "/styled/static/js/runtime-main.f16f924f.js.map",
+    "static/js/2.1da6a2f9.chunk.js": "/styled/static/js/2.1da6a2f9.chunk.js",
+    "static/js/2.1da6a2f9.chunk.js.map": "/styled/static/js/2.1da6a2f9.chunk.js.map",
+    "index.html": "/styled/index.html",
+    "precache-manifest.6c7d25cc7882eb7541b0198f5903610a.js": "/styled/precache-manifest.6c7d25cc7882eb7541b0198f5903610a.js",
+    "service-worker.js": "/styled/service-worker.js",
+    "static/js/2.1da6a2f9.chunk.js.LICENSE": "/styled/static/js/2.1da6a2f9.chunk.js.LICENSE",
+    "static/media/aboutBcg.jpeg": "/styled/static/media/aboutBcg.0e394d25.jpeg",
+    "static/media/homeBcg.jpg": "/styled/static/media/homeBcg.3811bd6a.jpg",
+    "static/media/room1.jpeg": "/styled/static/media/room1.7577289d.jpeg",
+    "static/media/room2.jpeg": "/styled/static/media/room2.4e32e8c2.jpeg",
+    "static/media/room3.jpeg": "/styled/static/media/room3.37780ac0.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f16f924f.js",
+    "static/js/2.1da6a2f9.chunk.js",
+    "static/js/main.47b377ac.chunk.js"
+  ]
+}
